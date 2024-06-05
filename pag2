@@ -1,1 +1,10 @@
-
+<! doctype html>
+<html lang="pt-br">
+ <head>
+  <link rel="shortcut icon" href="messi.png" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alan Pires</title>
+ </head>
+ <body> 
+ <a href="index.html" rel="prev" target="_self">pagina1<a/>
